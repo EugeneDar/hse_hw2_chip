@@ -1,4 +1,4 @@
-### Ссылка на колаб (
+### Ссылка на колаб (если не работает ссылка, то свяжитесь со мной)
 
 https://colab.research.google.com/drive/1j4kdiUgMderHt5i1b0qUGLR9-2J60fvd?usp=sharing
 
