@@ -1,3 +1,7 @@
+### Ссылка на колаб (
+
+https://colab.research.google.com/drive/1j4kdiUgMderHt5i1b0qUGLR9-2J60fvd?usp=sharing
+
 ### Выдача FastQC
 
 | Файлы                   | Их обрезанные версии            | 
